@@ -27,6 +27,6 @@
 
 ### Screen shots of the tabs of the website 
 
-About us page of the Foodies food restaurant 
 
- ![Foodies Food About Us tab](/assets/images/tux.png)
+
+
