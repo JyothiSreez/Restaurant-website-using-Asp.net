@@ -4,7 +4,7 @@
 #### Description
 
 #### The restaurant website template has 6 tabs.
-_ A header section with the logo **Foodies Food**.
+- A header section with the logo **Foodies Food**.
 - An **About us** section.
 - A **Menu section**.
 - A **Sign up** and **Login** section where customers sign up first and login using the credentials later is stored in **Microsoft SQL**.
