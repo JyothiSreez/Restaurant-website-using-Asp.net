@@ -1,5 +1,5 @@
 # Restaurant Website Template(Foodies Food)
-### A restaurant website created using C#, Asp.net, Html, CSS, Javascript, SQL and Visual Studio.
+### A restaurant website created using C#, Asp.net, Html, CSS, Javascript, and SQL.
 
 #### Description
 
@@ -14,7 +14,7 @@
 - The website is filled with dummy text where needed.
 
 
-## Built With:
+## Built using:
 
 - HTML
 - CSS
@@ -24,6 +24,7 @@
 - C#
 - JQUERY
 - SQL
+- Visual Studio IDE
 - Validation controls 
 
 ### Screen shots of the tabs of the website 
