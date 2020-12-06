@@ -7,7 +7,7 @@
 - A header section with the logo **Foodies Food**.
 - An **About us** section.
 - A **Menu section**.
-- A **Sign up** and **Login** section where customers sign up first and login using the credentials later is stored in **Microsoft SQL**.
+- A **Sign up** and **Login** section where customers sign up first and login using the credentials later is stored in **database**.
 - A **Gallery** section for the pictures.
 - A **Contact** section.
 - A footer section.
@@ -23,7 +23,8 @@
 - ASP.NET
 - C#
 - JQUERY
-
+- SQL
+- Validation controls 
 
 ### Screen shots of the tabs of the website 
 ![1 About_us1](https://user-images.githubusercontent.com/38304110/101118162-cc655100-35a5-11eb-827c-54832b442620.JPG)
